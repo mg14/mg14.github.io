@@ -33,7 +33,7 @@ So the expected number of mitochondrial mutations having reached fixation by tim
 
 $$E[N_{fix}(T)] =  \rho E[N(T-2M)] = \mu L (T - 2M).$$
 
-No the reality check comes by pluggin in some numbers: _Young Seok found about 1 mitochondrial mutation per cancer_. Can neutral theory explain that?
+No the reality check comes by plugging in some numbers: _Young Seok found about 1 mitochondrial mutation per cancer_. Can neutral theory explain that?
 
 We have \\( \mu = 10^{-7}\\), \\( M \approx 100\\), \\( L = 1.6 \times 10^4\\).  Realistically a cancer cell has undergone about \\( T=1000\\) cell divisions. 
 This yields \\( E[N_{fix}(T)] = 10^{-7} \times 1.6 \times 10^4 \times (1000 - 200) = 1.28\\).  Very close, isn't it?
