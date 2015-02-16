@@ -20,7 +20,7 @@ were never put head to head into a race. The surprise was that **gene expression
 **_How can that be?_** 
 
 One hypothesis is that mutations misprogramme a cell as can be measured by a perturbed  gene expression profile. These perturbations then lead to 
-aberrant blood counts and in turn to poor survival. Due to this *hierarchical information flow* it may be sufficient to know the state of the intermittent phenotypes such 
+aberrant blood counts and in turn to poor survival. Due to this **hierarchical information flow** it may be sufficient to know the state of the intermittent phenotypes such 
 as gene expression data. 
 
 Alternatively, there could be infrequent lesions for which we couldn't make any inference,  other germline variants and also non-hereditary or environmental influences on gene expression data and outcome.
