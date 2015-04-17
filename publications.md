@@ -6,6 +6,7 @@ permalink: /publications/
 
 Here is a list of publications:
 
+* 	A. Shlien, B. B. Campbell, R. de Borja, et al. (2015). [Combined hereditary and somatic mutations of replication error repair genes result in rapid onset of ultra-hypermutated cancers](http://dx.doi.org/10.1038/ng.3202). *Nat Genet*, 47:257-62.
 *	M. Gerstung, A. Pellagatti, L. Malcovati, et al. (2015). [Combining gene mutation with gene expression data improves outcome prediction in myelodysplastic syndromes.]( http://dx.doi.org/10.1038/ncomms6901) *Nat Commun*, 6:5901.
 *	N. Beerenwinkel, R. F. Schwarz, M. Gerstung and F. Markowetz (2015). [Cancer evolution: mathematical models and computational inference.](http://dx.doi.org/10.1093/sysbio/syu081) Syst Biol, 64:e1-e25.
 *	Y. S. Ju, L. B. Alexandrov, M. Gerstung, et al. (2014). [Origins and functional consequences of somatic mitochondrial DNA mutations in human cancer.](http://dx.doi.org/10.7554/eLife.02935) *eLife*, 3:e02935.
