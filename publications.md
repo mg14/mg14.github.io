@@ -6,9 +6,10 @@ permalink: /publications/
 
 Here is a list of publications:
 
+*	I. Martincorena, A. Roshan, M. Gerstung, et al. (2015). [High burden and pervasive positive selection of somatic mutations in normal human skin.](http://dx.doi.org/10.1126/science.aaa6806) *Science*, 348:880-6. 
 * 	A. Shlien, B. B. Campbell, R. de Borja, et al. (2015). [Combined hereditary and somatic mutations of replication error repair genes result in rapid onset of ultra-hypermutated cancers](http://dx.doi.org/10.1038/ng.3202). *Nat Genet*, 47:257-62.
 *	M. Gerstung, A. Pellagatti, L. Malcovati, et al. (2015). [Combining gene mutation with gene expression data improves outcome prediction in myelodysplastic syndromes.]( http://dx.doi.org/10.1038/ncomms6901) *Nat Commun*, 6:5901.
-*	N. Beerenwinkel, R. F. Schwarz, M. Gerstung and F. Markowetz (2015). [Cancer evolution: mathematical models and computational inference.](http://dx.doi.org/10.1093/sysbio/syu081) Syst Biol, 64:e1-e25.
+*	N. Beerenwinkel, R. F. Schwarz, M. Gerstung and F. Markowetz (2015). [Cancer evolution: mathematical models and computational inference.](http://dx.doi.org/10.1093/sysbio/syu081) *Syst Biol*, 64:e1-e25.
 *	Y. S. Ju, L. B. Alexandrov, M. Gerstung, et al. (2014). [Origins and functional consequences of somatic mitochondrial DNA mutations in human cancer.](http://dx.doi.org/10.7554/eLife.02935) *eLife*, 3:e02935.
 *	J. M. C. Tubio, Y. Li, Y. S. Ju, et al. (2014). [Mobile DNA in cancer. Extensive transduction of nonrepetitive DNA mediated by L1 retrotransposition in cancer genomes.](http://dx.doi.org/10.1126/science.1251343) *Science*, 345:1251343. 
 *	M. Gerstung, E. Papaemmanuil, and P. J. Campbell (2014). [Subclonal variant calling with multiple samples and prior knowledge.](http://dx.doi.org/10.1093/bioinformatics/btt750) *Bioinformatics*, 30:1198-1204. 
