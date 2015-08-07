@@ -4,16 +4,16 @@ title: About
 permalink: /about/
 ---
 
-My name is Moritz Gerstung, I'm a computational biologist working as a postdoctoral fellow at the [Wellcome Trust Sanger Institute](http://www.sanger.ac.uk).
+My name is Moritz Gerstung, I'm a research group leader at the [European Bioinformatics Institute EMBL-EBI](http://www.ebi.ac.uk). Prior to that I was working
+as a postdoctoral fellow at the [Wellcome Trust Sanger Institute](http://www.sanger.ac.uk).
 
 My contact details are:
 
-	Cancer Genome Project
-	Wellcome Trust Sanger Institute
+	European Bioinformatics Institute (EMBL-EBI)
+	European Molecular Biology Laboratory
 	Wellcome Trust Genome Campus
 	Hinxton, Cambridgeshire
-	CB10 1SA
+	CB10 1SD 
 	UK
 	
-	phone +44 (0) 1223 49 5395
-	email mg14//sanger/ac/uk
+	email first/last//ebi/ac/uk

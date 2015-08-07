@@ -6,6 +6,7 @@ permalink: /publications/
 
 Here is a list of publications:
 
+* L. R. Yates, M. Gerstung, S. Knappskog, et al. (2015). [Subclonal diversification of primary breast cancer revealed by multiregion sequencing.](http://dx.doi.org/10.1038/nm.3886) *Nat Med*, 21:751-9.
 *	I. Martincorena, A. Roshan, M. Gerstung, et al. (2015). [High burden and pervasive positive selection of somatic mutations in normal human skin.](http://dx.doi.org/10.1126/science.aaa6806) *Science*, 348:880-6. 
 * 	A. Shlien, B. B. Campbell, R. de Borja, et al. (2015). [Combined hereditary and somatic mutations of replication error repair genes result in rapid onset of ultra-hypermutated cancers](http://dx.doi.org/10.1038/ng.3202). *Nat Genet*, 47:257-62.
 *	M. Gerstung, A. Pellagatti, L. Malcovati, et al. (2015). [Combining gene mutation with gene expression data improves outcome prediction in myelodysplastic syndromes.]( http://dx.doi.org/10.1038/ncomms6901) *Nat Commun*, 6:5901.
